@@ -1,4 +1,4 @@
-# 🖼️ ASCII Converter
+# ASCII Converter
 
 > Convert images and animated GIFs to ASCII art — all in the browser, no backend needed.
 
